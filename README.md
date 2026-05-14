@@ -1,39 +1,61 @@
-# Hi, I'm Asraful Hakime
+# 👋 Hi, I'm Asraful Hakime
 
-**AI Product Builder · AI Workflow Builder · Business-to-Product Builder**  
-I turn real business problems into AI-powered workflows, usable prototypes, and GitHub case studies.
+### AI Product Builder · AI Workflow Developer · Full-stack AI Application Builder
 
----
-
-## 👋 About Me
-
-I am not positioning myself as a pure programmer.
-
-My strength is combining **business understanding, product thinking, and AI implementation**.
-
-I focus on turning real workflow problems into practical AI tools:
-
-- discovering repetitive and painful business processes
-- breaking vague needs into clear product features
-- designing AI-assisted workflows instead of black-box automation
-- building usable Web prototypes and MVPs
-- documenting projects as GitHub case studies and product retrospectives
-
-My long-term direction is to become an **AI Product Builder** who can understand real scenarios, design simple workflows, and make ideas run.
+I turn real business problems into **AI-powered workflows**, **usable Web prototypes**, and **GitHub case studies**.
 
 ---
 
-## 🧭 Positioning
+## 🧭 About Me
 
-**AI Product Builder / AI Workflow Builder**
+I am building my career around **AI product applications**, **workflow automation**, and **practical full-stack AI tools**.
 
-My core path:
+My strength is not only writing code, but combining:
+
+- 🧩 **Business scenario understanding**
+- 🧠 **Product thinking**
+- ⚙️ **AI workflow design**
+- 💻 **Web application development**
+- 📝 **Project documentation and retrospectives**
+
+I focus on turning repetitive real-world workflows into AI-assisted products that users can actually **understand, review, and control**.
+
+> My goal is to become an **AI Product Builder** who can discover business pain points, design clear product workflows, build usable MVPs, and improve them through real project iteration.
+
+---
+
+## 🎯 Career Direction
+
+I am currently seeking opportunities related to:
+
+| Direction | What I Can Contribute |
+|---|---|
+| 🤖 AI Product Assistant | Product thinking + AI workflow understanding |
+| ⚙️ AI Workflow Developer | Workflow design + AI tool integration |
+| 💻 AI Application Developer | Web prototype + AI feature implementation |
+| 🧰 AI Automation Tool Developer | Internal tools + business automation |
+| 🚀 Junior Full-stack AI Product Developer | MVP building + product iteration |
+| 🧭 Junior Product Manager with AI Ability | Business analysis + AI implementation awareness |
+
+I am especially interested in:
+
+- 📄 AI document automation
+- 🔁 AI workflow tools
+- 🧾 Internal business automation
+- 🧪 Lightweight SaaS products
+- 🏢 AI + traditional business scenarios
+- 🧩 Vertical AI applications
+
+---
+
+## 🧱 My Core Path
 
 ```text
 Real business problem
 → Product breakdown
 → AI workflow design
 → Technical implementation
+→ Web prototype
 → GitHub case study
 → Project retrospective
 ```
@@ -42,216 +64,121 @@ I care less about showing isolated technical skills, and more about whether an A
 
 ---
 
-## 🧠 What I Care About
+## 🛠️ Tech Stack
 
-When I build an AI tool, I usually start with product and workflow questions before technical implementation:
+### Frontend
 
-- Who is the real user?
-- What workflow is repetitive, painful, or error-prone?
-- Where can AI help with understanding, parsing, checking, or generating?
-- Where should the workflow stay manual and user-controlled?
-- What should the user see, click, upload, review, confirm, and export?
-- Can this idea be tested as a small MVP before overbuilding?
-- Can the project be documented as a reusable case study?
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-I believe a useful AI product is not just a model call.  
-It needs a clear scenario, a simple interface, and a workflow that users can trust.
+### Backend & Database
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ What I Build
+### AI & Workflow
 
-### 1. AI Workflow Tools
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Workflow-111827?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge)
+![Document QA](https://img.shields.io/badge/Document_QA-2563EB?style=for-the-badge)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-7C3AED?style=for-the-badge)
 
-Tools that convert repetitive business processes into structured AI workflows.
+### Tools
 
-Examples:
-
-- document review workflows
-- content generation flows
-- form-to-output automation
-- prompt-based internal tools
-- AI-assisted decision support prototypes
-- visual QA and review systems
-
----
-
-### 2. Document Automation
-
-AI-assisted tools for document understanding, formatting checking, template parsing, and structured output workflows.
-
-This includes:
-
-- document QA
-- formatting rule checking
-- AI template parsing
-- AI quality checking
-- cross-reference checking
-- visual issue feedback
-- user-controlled correction workflows
-
-My current view is that serious document tools should not become black-box “one-click AI formatting” systems.  
-They should make problems visible, explain why something may be wrong, and let users confirm changes.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-### 3. Local Business AI Marketing Assistants
+## 🚀 Featured Projects
 
-AI tools designed for small local businesses that need simple, practical marketing support.
+# 📄 WordCraft-Pro
 
-Possible scenarios:
-
-- product selling-point generation
-- short video script generation
-- customer reply suggestions
-- offer and promotion copywriting
-- local store content planning
-- sales communication templates
-- simple landing page copy generation
-
----
-
-### 4. Landing Page / Offer Generators
-
-Tools that help turn a business idea into a clear product page or offer.
-
-Focus areas:
-
-- user pain point extraction
-- product positioning
-- headline and section generation
-- pricing page structure
-- conversion-oriented copywriting
-- MVP landing page drafts
-
----
-
-### 5. Small SaaS MVPs
-
-Small AI SaaS prototypes that can be tested quickly with real users.
-
-I care about:
-
-- whether the user problem is specific enough
-- whether the AI output is useful
-- whether the product can be explained clearly
-- whether the workflow is simple enough to use
-- whether the MVP can be validated before overbuilding
-
----
-
-## 🚀 Featured Projects / Case Studies
-
-### WordCraft-Pro
-
-**AI Document QA & Formatting Workflow**
+### AI Document QA & Formatting Workflow
 
 A real-world AI document workflow prototype based on repetitive report-formatting work.
 
-This project is not a mature commercial product.  
-Its value is that it helped me complete a full cycle:
+**Highlights**
 
-```text
-business pain point
-→ product design
-→ AI workflow
-→ Web prototype
-→ engineering problems
-→ project retrospective
-```
-
-**Key ideas:**
-
-- AI template parsing instead of one-click black-box formatting
-- AI quality checking instead of direct automatic rewriting
-- visual issue feedback and user-controlled correction
+- AI template parsing
+- AI quality checking
+- visual issue feedback
 - adoptable cross-reference workflow
+- user-controlled correction flow
 - document QA and formatting workflow design
 
-**What I learned:**
+**Project value**
 
-- Word documents are not plain text
-- document preview is only the first layer
-- formatting analysis requires document structure understanding
-- user trust matters more than automation
-- serious document tools need controllability, transparency, and local-first thinking
+This project reflects how I turn a repetitive business process into a controllable AI workflow, instead of a black-box one-click generator.
 
-**Status:** Building / Iterating  
-**Focus:** AI Document QA · Formatting Workflow · Web App Experience · Product Retrospective
+**Repo:** https://github.com/dvdxfv/WordCraft-Pro
 
 ---
 
-### ETF-Decision-Helper
+# 🎮 dvdxfv-minesweeper
 
-**Investment Decision Helper Prototype**
+### Front-end Interaction Demo / Small Product Prototype
 
-A planned / early-stage decision-support tool for organizing ETF-related information and helping users think through investment choices more clearly.
+A lightweight game project used to practice front-end interaction, page structure, and productized UI expression.
 
-> This is a decision-support prototype, not financial advice.
+**Highlights**
 
-**Product angle:**
+- interactive front-end logic
+- game-state design
+- lightweight Web product experience
+- page presentation and usability thinking
 
-- converts scattered investment information into a clearer decision workflow
-- explores AI-assisted comparison and reasoning support
-- focuses on user understanding, risk awareness, and structured thinking
+**Project value**
 
-**Status:** To be improved / Prototype  
-**Focus:** AI Decision Support · Structured Information · Personal Finance Workflow
+This project represents my ability to build small but complete interactive products, not only business tools.
 
----
-
-### LocalBiz AI Marketing Assistant
-
-**AI Content & Sales Assistant for Local Businesses**
-
-A planned AI tool for local merchants and small businesses.
-
-It aims to help business owners generate practical marketing and sales materials without needing a professional marketing team.
-
-**Possible features:**
-
-- product selling-point generation
-- short video script generation
-- customer reply templates
-- promotion copywriting
-- local store content planning
-- simple landing page copy generation
-
-**Status:** Planned / In Progress  
-**Focus:** Local Business · AI Marketing · Sales Communication · MVP Validation
+**Repo:** https://github.com/dvdxfv/dvdxfv-minesweeper
 
 ---
 
-## 🧩 My Current Workflow
+# 🌍 eog-vbd-daily-downloader
 
-I use different AI tools for different stages of product building:
+### Data Workflow / Downloader Utility
 
-- **ChatGPT**: product thinking, structure design, project retrospective, writing refinement
-- **Claude Code**: code iteration, feature development, project refactoring
-- **Cursor**: AI-assisted development and implementation
-- **Codex**: coding support and technical exploration
-- **Obsidian**: prompt assets, workflow notes, project retrospectives, knowledge base
-- **GitHub**: project portfolio, README, changelog, case study archive
+A practical downloader-style project for handling repeated data acquisition tasks.
 
-I care less about which single tool is the strongest.  
-I care more about how different AI tools can be combined into a stable workflow.
+**Highlights**
+
+- workflow-oriented utility design
+- repeated task automation
+- data handling mindset
+- practical scripting / engineering thinking
+
+**Project value**
+
+This project reflects my interest in turning repeated information or data collection tasks into usable tools and automation workflows.
+
+**Repo:** https://github.com/dvdxfv/eog-vbd-daily-downloader
 
 ---
 
-## 📌 Current Direction
+## 💼 What I Am Looking For
 
-My current focus areas:
+I am looking for opportunities where I can combine **product thinking**, **business understanding**, and **AI implementation**.
 
-- AI workflow design
-- AI document automation
-- practical AI Web products
-- business process automation
-- local business AI tools
-- GitHub project packaging
-- product retrospective writing
-- Obsidian-based AI knowledge management
+Suitable directions include:
 
-My goal is to keep building small but real AI products from real workflow problems.
+- 🤖 AI Product Assistant
+- ⚙️ AI Workflow Builder
+- 💻 AI Application Developer
+- 🧰 AI Automation Tool Developer
+- 🚀 Junior Full-stack AI Product Developer
+- 🧭 Product-oriented AI Engineer
+
+I am especially interested in practical AI products that solve clear workflow problems rather than only demonstrating model capabilities.
 
 ---
 
@@ -259,8 +186,13 @@ My goal is to keep building small but real AI products from real workflow proble
 
 **Email:** asrafulhakime621@gmail.com
 
-I am open to work, collaboration, feedback, and conversations around practical AI products, workflow automation, and small SaaS MVPs.
+I am open to:
+
+- Work opportunities
+- Project collaboration
+- Product feedback
+- Conversations around practical AI products, workflow automation, and small SaaS MVPs
 
 ---
 
-_Building practical AI tools from real workflow problems._
+> Building practical AI tools from real workflow problems.
