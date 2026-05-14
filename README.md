@@ -1,50 +1,61 @@
-<h1 align="center">Hi, I'm Asraful Hakime</h1>
+# Hi, I'm Asraful Hakime
 
-<p align="center">
-  <b>AI Product Builder · Full-stack Workflow Developer</b><br/>
-  Building practical AI tools for real-world workflows
-</p>
-
-<p align="center">
-  <a href="mailto:asrafulhakime621@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asrafulhakime621%40gmail.com-blue?style=flat-square&logo=gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Collaboration-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Applications%20%7C%20AI%20SaaS%20%7C%20Workflow%20Automation-orange?style=flat-square" />
-</p>
+**AI Product Builder · AI Workflow Builder · Business-to-Product Builder**  
+I turn real business problems into AI-powered workflows, usable prototypes, and GitHub case studies.
 
 ---
 
 ## 👋 About Me
 
-I am building a portfolio around **AI product applications**, **workflow automation**, and **small full-stack AI tools**.
+I am not positioning myself as a pure programmer.
 
-My focus is not only writing code, but turning real business scenarios into usable product experiences:
+My strength is combining **business understanding, product thinking, and AI implementation**.
 
-- finding repetitive or painful workflows
-- designing simple AI-assisted user flows
-- building MVPs and prototypes quickly
-- improving landing pages and product storytelling
-- testing whether an AI feature can create visible user value
+I focus on turning real workflow problems into practical AI tools:
 
-I am especially interested in how AI can help with document processing, content generation, local business marketing, sales communication, and lightweight business automation.
+- discovering repetitive and painful business processes
+- breaking vague needs into clear product features
+- designing AI-assisted workflows instead of black-box automation
+- building usable Web prototypes and MVPs
+- documenting projects as GitHub case studies and product retrospectives
+
+My long-term direction is to become an **AI Product Builder** who can understand real scenarios, design simple workflows, and make ideas run.
 
 ---
 
 ## 🧭 Positioning
 
-**AI Product Builder / Full-stack AI Workflow Developer**
+**AI Product Builder / AI Workflow Builder**
 
-I work at the intersection of:
+My core path:
 
-- Product thinking
-- AI workflow design
-- Web application development
-- User scenario analysis
-- Landing page and interface expression
-- MVP validation
+```text
+Real business problem
+→ Product breakdown
+→ AI workflow design
+→ Technical implementation
+→ GitHub case study
+→ Project retrospective
+```
 
-My current direction is to become better at building **practical AI tools that solve specific workflow problems**.
+I care less about showing isolated technical skills, and more about whether an AI tool can enter a real workflow, reduce repetitive work, and create visible value.
+
+---
+
+## 🧠 What I Care About
+
+When I build an AI tool, I usually start with product and workflow questions before technical implementation:
+
+- Who is the real user?
+- What workflow is repetitive, painful, or error-prone?
+- Where can AI help with understanding, parsing, checking, or generating?
+- Where should the workflow stay manual and user-controlled?
+- What should the user see, click, upload, review, confirm, and export?
+- Can this idea be tested as a small MVP before overbuilding?
+- Can the project be documented as a reusable case study?
+
+I believe a useful AI product is not just a model call.  
+It needs a clear scenario, a simple interface, and a workflow that users can trust.
 
 ---
 
@@ -56,25 +67,31 @@ Tools that convert repetitive business processes into structured AI workflows.
 
 Examples:
 
+- document review workflows
 - content generation flows
-- document review flows
 - form-to-output automation
 - prompt-based internal tools
 - AI-assisted decision support prototypes
+- visual QA and review systems
 
 ---
 
 ### 2. Document Automation
 
-AI-assisted tools for document understanding, formatting, rewriting, checking, and structured output generation.
+AI-assisted tools for document understanding, formatting checking, template parsing, and structured output workflows.
 
 This includes:
 
-- document Q&A
-- formatting workflow assistance
-- academic or business document processing
-- template-based generation
-- reusable document operation flows
+- document QA
+- formatting rule checking
+- AI template parsing
+- AI quality checking
+- cross-reference checking
+- visual issue feedback
+- user-controlled correction workflows
+
+My current view is that serious document tools should not become black-box “one-click AI formatting” systems.  
+They should make problems visible, explain why something may be wrong, and let users confirm changes.
 
 ---
 
@@ -90,6 +107,7 @@ Possible scenarios:
 - offer and promotion copywriting
 - local store content planning
 - sales communication templates
+- simple landing page copy generation
 
 ---
 
@@ -124,24 +142,47 @@ I care about:
 
 ## 🚀 Featured Projects / Case Studies
 
-### WordCraft-Pro  
-**Document QA & Formatting Workflow**
+### WordCraft-Pro
 
-A practical AI document workflow project focused on document processing, formatting assistance, and structured content handling.
+**AI Document QA & Formatting Workflow**
 
-**Product angle:**
+A real-world AI document workflow prototype based on repetitive report-formatting work.
 
-- helps users reduce repetitive document work
-- explores AI-assisted document checking and formatting
-- focuses on workflow design, not only text generation
-- can be extended into reusable document automation scenarios
+This project is not a mature commercial product.  
+Its value is that it helped me complete a full cycle:
+
+```text
+business pain point
+→ product design
+→ AI workflow
+→ Web prototype
+→ engineering problems
+→ project retrospective
+```
+
+**Key ideas:**
+
+- AI template parsing instead of one-click black-box formatting
+- AI quality checking instead of direct automatic rewriting
+- visual issue feedback and user-controlled correction
+- adoptable cross-reference workflow
+- document QA and formatting workflow design
+
+**What I learned:**
+
+- Word documents are not plain text
+- document preview is only the first layer
+- formatting analysis requires document structure understanding
+- user trust matters more than automation
+- serious document tools need controllability, transparency, and local-first thinking
 
 **Status:** Building / Iterating  
-**Focus:** AI Document Automation · Workflow Design · Web App Experience
+**Focus:** AI Document QA · Formatting Workflow · Web App Experience · Product Retrospective
 
 ---
 
-### ETF-Decision-Helper  
+### ETF-Decision-Helper
+
 **Investment Decision Helper Prototype**
 
 A planned / early-stage decision-support tool for organizing ETF-related information and helping users think through investment choices more clearly.
@@ -159,7 +200,8 @@ A planned / early-stage decision-support tool for organizing ETF-related informa
 
 ---
 
-### LocalBiz AI Marketing Assistant  
+### LocalBiz AI Marketing Assistant
+
 **AI Content & Sales Assistant for Local Businesses**
 
 A planned AI tool for local merchants and small businesses.
@@ -180,86 +222,45 @@ It aims to help business owners generate practical marketing and sales materials
 
 ---
 
-## 🧠 Product Thinking
+## 🧩 My Current Workflow
 
-When I build an AI tool, I usually start with product questions before technical implementation:
+I use different AI tools for different stages of product building:
 
-- **Who is the user?**
-- **What painful workflow can AI reduce?**
-- **Can this idea be tested with a landing page or MVP first?**
-- **Can the tool create visible business value?**
-- **How can a technical feature become a simple product experience?**
-- **What should the user see, click, upload, review, and export?**
-- **Where does AI actually help, and where should the workflow stay manual?**
+- **ChatGPT**: product thinking, structure design, project retrospective, writing refinement
+- **Claude Code**: code iteration, feature development, project refactoring
+- **Cursor**: AI-assisted development and implementation
+- **Codex**: coding support and technical exploration
+- **Obsidian**: prompt assets, workflow notes, project retrospectives, knowledge base
+- **GitHub**: project portfolio, README, changelog, case study archive
 
-I believe a useful AI product is not just a model call.  
-It needs a clear scenario, a simple interface, and a workflow that users can understand.
-
----
-
-## 🧰 Tech Stack
-
-I use these tools to build and ship AI web product prototypes:
-
-<p>
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Full--stack-black?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TailwindCSS-UI%20Design-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-Database%20%26%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI--compatible%20API-AI%20Workflow-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel" />
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square&logo=github" />
-</p>
-
-I use this stack to connect:
-
-- AI model APIs
-- user-facing web interfaces
-- database and authentication
-- document or content workflows
-- deployment and iteration loops
-
-The goal is not to collect technologies, but to use them to build understandable AI product experiences.
+I care less about which single tool is the strongest.  
+I care more about how different AI tools can be combined into a stable workflow.
 
 ---
 
-## 📌 Current Focus
+## 📌 Current Direction
 
-I am currently focusing on:
+My current focus areas:
 
-- building small but practical AI product demos
-- turning business scenarios into AI workflows
-- improving product storytelling and landing page design
-- testing AI tools with real user needs
-- preparing case studies for AI application roles and collaborations
-- learning how to package AI features into simple, usable products
+- AI workflow design
+- AI document automation
+- practical AI Web products
+- business process automation
+- local business AI tools
+- GitHub project packaging
+- product retrospective writing
+- Obsidian-based AI knowledge management
 
----
-
-## 🤝 Open To
-
-I am open to:
-
-- AI application development roles
-- full-stack AI product roles
-- junior / internship developer opportunities
-- collaboration on AI productivity tools
-- small business AI workflow projects
-- product feedback and code review
-- MVP prototyping and product case study discussions
+My goal is to keep building small but real AI products from real workflow problems.
 
 ---
 
 ## 📫 Contact
 
-**Email:** [asrafulhakime621@gmail.com](mailto:asrafulhakime621@gmail.com)
+**Email:** asrafulhakime621@gmail.com
 
 I am open to work, collaboration, feedback, and conversations around practical AI products, workflow automation, and small SaaS MVPs.
 
 ---
 
-<p align="center">
-  <i>Building practical AI tools from real workflow problems.</i>
-</p>
+_Building practical AI tools from real workflow problems._
