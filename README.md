@@ -1,3 +1,5 @@
+🌐 [中文版](README_CN.md)
+
 # 👋 Hi, I'm Asraful Hakime
 
 ### AI Product Builder · AI Workflow Developer · Full-stack AI Application Builder

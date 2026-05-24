@@ -1,3 +1,5 @@
+🌐 [English Version](README.md)
+
 # 👋 你好，我是 Asraful Hakime
 
 ### AI 产品构建者 · AI 工作流开发者 · 全栈 AI 应用实践者
