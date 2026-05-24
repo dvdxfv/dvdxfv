@@ -109,6 +109,29 @@ I care less about showing isolated technical skills, and more about whether an A
 
 ## 🚀 Featured Projects
 
+# 🧬 WritingDNA
+
+### Cross-platform AI Skill — Personal Writing Style Guardian
+
+Extracts your writing DNA from 5-12 past articles and rewrites any AI draft to sound like you. One install, five AI tools supported.
+
+**Highlights**
+
+- Three-layer template stripping architecture (Python script → AI semantic recognition → user approval), genre-agnostic
+- 3 mandatory human checkpoints — a complete demonstration of Skill design philosophy
+- 7-model benchmark testing (ClaudeOpus scored 8.5/10, highest)
+- Sample quality pre-check (6 dimensions × 3 levels) + DNA versioning + adjustable rewrite settings
+- Dual-format delivery: Markdown + one-click formatted DOCX
+- Cross-platform installer: Trae / Cursor / Claude Code / VS Code / CodeX
+
+**Project value**
+
+This project demonstrates my ability to decompose a vague requirement ("remove AI flavor") into a complete Skill product with 3-layer architecture, 9-step confirmation flow, and 9 script modules — every design decision justified from philosophy to delivery details.
+
+**Repo:** https://github.com/dvdxfv/skill-writing-dna
+
+---
+
 # 📄 WordCraft-Pro
 
 ### AI Document QA & Formatting Workflow
