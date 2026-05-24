@@ -11,12 +11,11 @@ I turn real business problems into **AI-powered workflows**, **usable Web protot
 
 ## 🌐 中文版 / 中文版
 
+</div>
+
 <details>
 <summary>📖 点击展开中文完整版 / Click to read in Chinese</summary>
 
-</details>
-
-</div>
 <br>
 
 ---
