@@ -6,8 +6,18 @@ I turn real business problems into **AI-powered workflows**, **usable Web protot
 
 ---
 
+<br>
+<div align="center">
+
+## 🌐 中文版 / 中文版
+
 <details>
-<summary>🌐 中文 / Chinese</summary>
+<summary>📖 点击展开中文完整版 / Click to read in Chinese</summary>
+
+</details>
+
+</div>
+<br>
 
 ---
 
