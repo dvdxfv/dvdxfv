@@ -1,10 +1,248 @@
-🌐 [中文版](README_CN.md)
-
 # 👋 Hi, I'm Asraful Hakime
 
 ### AI Product Builder · AI Workflow Developer · Full-stack AI Application Builder
 
 I turn real business problems into **AI-powered workflows**, **usable Web prototypes**, and **GitHub case studies**.
+
+---
+
+<details>
+<summary>🌐 中文 / Chinese</summary>
+
+---
+
+# 👋 你好，我是 Asraful Hakime
+
+### AI 产品构建者 · AI 工作流开发者 · 全栈 AI 应用实践者
+
+我专注于把**真实业务问题**转化为 **AI 工作流、可运行原型和 GitHub 项目案例**。
+
+---
+
+## 🧭 关于我
+
+我正在围绕 **AI 产品应用、工作流自动化、轻量级全栈 AI 工具** 搭建自己的能力体系。
+
+我的优势不只是写代码，而是把这些能力结合起来：
+
+- 🧩 **业务场景理解**
+- 🧠 **产品思维**
+- ⚙️ **AI 工作流设计**
+- 💻 **Web 应用开发**
+- 📝 **项目文档与复盘沉淀**
+
+我更关注的不是做一个“炫技型 AI Demo”，而是把真实场景中的重复流程做成用户**看得懂、能确认、可控制**的产品体验。
+
+> 我的长期方向是成为一名能够发现业务痛点、拆解产品流程、做出 AI MVP，并持续迭代的 **AI Product Builder**。
+
+---
+
+## 🎯 求职方向
+
+我目前重点关注的岗位方向：
+
+| 方向 | 我能提供的能力 |
+|---|---|
+| 🤖 AI 产品助理 / AI 产品经理助理 | 产品思维 + AI 工作流理解 |
+| ⚙️ AI 工作流开发 | 工作流设计 + AI 工具接入 |
+| 💻 AI 应用开发 | Web 原型 + AI 功能实现 |
+| 🧰 AI 自动化工具开发 | 内部工具 + 业务自动化 |
+| 🚀 初级全栈 AI 产品开发 | MVP 搭建 + 产品迭代 |
+| 🧭 具备 AI 落地能力的产品岗 | 业务分析 + 技术落地意识 |
+
+我特别感兴趣的方向包括：
+
+- 📄 AI 文档自动化
+- 🔁 AI 工作流工具
+- 🧾 内部业务自动化
+- 🧪 轻量 SaaS 产品
+- 🏢 AI + 传统业务场景
+- 🧩 垂直行业 AI 应用
+
+---
+
+## 🧱 我的核心路径
+
+```text
+真实业务问题
+→ 产品化拆解
+→ AI 工作流设计
+→ 技术实现
+→ Web 原型
+→ GitHub 项目案例
+→ 项目复盘沉淀
+```
+
+我更在意的不是单点技术展示，而是一个 AI 工具是否真的能进入工作流、减少重复劳动、带来可见价值。
+
+---
+
+## 🛠️ 技术栈
+
+### AI & Workflow
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Workflow-111827?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge)
+![Document QA](https://img.shields.io/badge/Document_QA-2563EB?style=for-the-badge)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-7C3AED?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Additional
+
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white)
+
+---
+
+## 🚀 代表项目
+
+# 🧬 WritingDNA
+
+### 跨平台 AI Skill — 个人写作风格守护者
+
+从 5-12 篇过往文章里提取你的写作 DNA，把任何 AI 草稿改写成"读起来像你自己写的"。一次安装，五个 AI 工具通用。
+
+**亮点**
+
+- 三层模板剥离架构（Python 脚本 → AI 语义识别 → 用户拍板），文体无关
+- 全流程 3 个必停人工确认点，Skill 设计哲学的完整体现
+- 7 模型 Benchmark 横向测试（ClaudeOpus 8.5 分最高）
+- 样本质量预检（6 维 × 3 级）+ DNA 版本管理 + 改写场景/力度可调
+- 交付双格式：Markdown + 一键转排版 DOCX
+- 跨平台安装器：Trae / Cursor / Claude Code / VS Code / CodeX
+
+**项目价值**
+
+这个项目体现了我如何把一个"AI 味太重"的模糊需求，拆解成三层剥离架构、9 步确认流程、9 个脚本模块的完整 Skill 产品——从设计哲学到交付细节，每个决策都有明确的原因。
+
+**仓库地址：** https://github.com/dvdxfv/skill-writing-dna
+
+---
+
+# 📄 WordCraft-Pro
+
+### AI 文档 QA 与排版工作流原型
+
+一个来自真实报告排版场景的 AI 文档工作流原型。
+
+**亮点**
+
+- AI 模板解析
+- AI 质量检查
+- 可视化问题反馈
+- 可采纳式交叉引用工作流
+- 用户可控修改流程
+- 文档 QA 与排版工作流设计
+
+**项目价值**
+
+这个项目体现了我如何把重复性的业务流程，转成一个可控的 AI 工作流，而不是黑箱式一键生成器。
+
+**仓库地址：** https://github.com/dvdxfv/WordCraft-Pro
+
+---
+
+# 🎮 dvdxfv-minesweeper
+
+### 前端交互 Demo / 小型产品原型
+
+一个偏前端交互和页面体验的小项目，用来练习交互逻辑、页面结构和产品化表达。
+
+**亮点**
+
+- 前端交互逻辑
+- 游戏状态设计
+- 轻量 Web 产品体验
+- 页面呈现与可用性思考
+
+**项目价值**
+
+这个项目展示的是我不仅能做业务工具，也能做完整的小型交互产品。
+
+**仓库地址：** https://github.com/dvdxfv/dvdxfv-minesweeper
+
+---
+
+# 🌍 eog-vbd-daily-downloader
+
+### 数据工作流 / 下载工具项目
+
+一个面向重复数据获取任务的下载器类工具项目。
+
+**亮点**
+
+- 工作流导向的工具设计
+- 重复任务自动化
+- 数据处理思维
+- 实用型脚本 / 工程化意识
+
+**项目价值**
+
+这个项目体现了我对“把重复信息处理任务变成工具”的长期兴趣，也和我的 AI 工作流方向是一致的。
+
+**仓库地址：** https://github.com/dvdxfv/eog-vbd-daily-downloader
+
+---
+
+## 💼 我在寻找什么机会
+
+我希望找到能把 **产品思维、业务理解、AI 落地能力** 结合起来的机会。
+
+合适方向包括：
+
+- 🤖 AI 产品助理
+- ⚙️ AI 工作流构建者
+- 💻 AI 应用开发
+- 🧰 AI 自动化工具开发
+- 🚀 初级全栈 AI 产品开发
+- 🧭 产品导向的 AI 工程实践岗位
+
+我尤其关注那些能真正解决工作流问题的 AI 产品，而不是只展示模型能力的 Demo。
+
+---
+
+## 📫 联系方式
+
+**Email:** asrafulhakime621@gmail.com
+
+欢迎交流：
+
+- 工作机会
+- 项目合作
+- 产品反馈
+- AI 产品、工作流自动化、轻量 SaaS MVP 相关讨论
+
+---
+
+> 从真实工作流问题出发，构建真正可用的 AI 工具。
+
+</details>
 
 ---
 
